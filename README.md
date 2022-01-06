@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Martin Ajucum</h1>
+<h1 align="center">Hi 👋, I'm Adolfo Ajucum</h1>
+- 🔭 I’m currently working as a Software Developer.
+- ⚡ Compuer Science Student
 <!--
 **martinAjucum/martinAjucum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
