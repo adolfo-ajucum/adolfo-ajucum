@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adolfo Martín Ajucum</h1>
 - 🔭 I’m currently working as a Software Developer.
-- ⚡ Computer Science Student
+- ⚡ Computer Science Engineer.
+- 🏥 Healthcare IT
 <!--
 **martinAjucum/martinAjucum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
