@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adolfo Martín Ajucum</h1>
-- 🔭 I’m currently working as a Software Developer.
-- ⚡ Computer Science Engineer.
 - 🏥 Healthcare IT
+Adolfo is a Systems Engineer with a solid foundation in healthcare IT and software development, currently focused on building an Electronic Health Record (EHR) system based on HL7 FHIR for public hospitals in Guatemala. With experience in cloud technologies, database management, and interoperability standards, he has contributed to streamlining patient care processes, improving healthcare operations, and ensuring system reliability.
 <!--
 **martinAjucum/martinAjucum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
